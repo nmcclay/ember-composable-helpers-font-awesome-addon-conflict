@@ -44,7 +44,9 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.6"
+    "ember-cli-babel": "^5.1.6",
+    "ember-composable-helpers": "^1.1.2",
+    "ember-font-awesome": "^2.2.0"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
